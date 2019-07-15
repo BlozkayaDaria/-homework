@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(167, 185, 184);
+    
+    
+    }
+    div{
+        position: absolute;
+        top:40%;
+        left:50%;
+        transform: translate(-50%, -50%);
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+         font-style: oblique;
+    }
+    
